@@ -1,2 +1,4 @@
-# daftar-hero-mlbb
-ini untuk mengetahui nama nama hero mobile legend
+Nama : Muhammad Tangguh Haikal Akbar Wijaya <br/>
+NIM : I.2410147 <br/>
+Gambar screenshot :
+
